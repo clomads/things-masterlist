@@ -1,0 +1,30 @@
+{
+  "obsidian-state-switcher:bulkUpdate": [],
+  "obsidian-toggle-meta-yaml-plugin:obsidian-toggle-meta-yaml-toggle": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Y"
+    }
+  ],
+  "obsidian-state-switcher:keyValueUpdate": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "Y"
+    }
+  ],
+  "obsidian-state-switcher:keyArrayInsert": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Y"
+    }
+  ]
+}

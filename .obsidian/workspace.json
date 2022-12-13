@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "6fd6da5202a6e17c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b0a9f8748aa8ae0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d329f2f6378e6b19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "extras/obsidian_template/in-process-badge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e739ac34c4c32cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "extras/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d56a9636a93d9de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "extras/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ebddcece176c21e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6ee3edbac48f754",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbf05a3812159950",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4aa2a61e250bf437",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c272f6b5f18ec749",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f8849071cbaf06e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c806a49148fda16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5620fc5ab3dd9ad6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "extras/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "62aa5d366450ad04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "extras/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4638ffe96119480a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9abd18cd3a6a9363",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "extras/README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2e739ac34c4c32cd",
+  "lastOpenFiles": [
+    "extras/obsidian_template/parametric.md",
+    "extras/obsidian_template/in-process-badge.md",
+    "extras/obsidian_template/frontmatter.md",
+    "models/Bottle Hook for 1\" Square Tube/README.md",
+    "extras/README.md",
+    "README.md"
+  ]
+}
