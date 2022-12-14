@@ -1,4 +1,4 @@
-This folder contains extras to assist in managing the repo as an Obsidian vault.
+This folder contains forward facing extras to assist in managing the repo as an Obsidian vault. Files that Obsidian itself uses will be in `.obsidian` folder.
 
 ### Plugins
 
