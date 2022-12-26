@@ -79,4 +79,6 @@ This repo is built as an Obsidian vault and contains extra files to support it a
 
 ## License
 
-CC 4.0 BY-SA on designs and documentation
+CC 4.0 BY-SA on most designs and documentation unless otherwise noted
+
+remix freely - credit me - share with same license
