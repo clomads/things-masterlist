@@ -8,7 +8,7 @@
 
 ## TL;DR
 
-I make things: 3D models, PCBs, other prototypes. This is very incomplete documentation of those things. 
+I make things: 3D models, PCBs, other prototypes. This is very incomplete documentation of those things that don't yet have or won't have their own repo.
 
 It's probably mostly focused on 3D models I make in Fusion 360, but there's gonna end up being a lot here.
 
