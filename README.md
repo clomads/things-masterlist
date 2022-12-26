@@ -2,20 +2,19 @@
 [![obsidian](https://img.shields.io/badge/Made%20with-Obsidian-blue?style=flat-square&logo=obsidian)](https://www.obsidian.md)
 [![ko-fi](https://img.shields.io/badge/Buy%20Me%20A-Coffee-red?logo=ko-fi&style=flat-square)](https://www.ko-fi.com/clomads)
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dclomads%26type%3Dpatrons&style=flat-square)](https://patreon.com/clomads)
-
 ![GitHub](https://img.shields.io/github/license/clomads/Mato-Mini-M1?style=flat-square&logo=creative%20commons)
 
-# @clomads 3D Model Master List
+# @clomads "Things Masterlist"
 
 ## TL;DR
 
-- Models have their own folder with mesh & design files
-	- many are likely missing `README.md`
-		- I'm trying
-- Documentation is hard
-	- I'm doing my best
+I make things: 3D models, PCBs, other prototypes. This is very incomplete documentation of those things. 
 
-***Give me money if you like my shit so I can buy land in the desert and make more cool shit.***
+It's probably mostly focused on 3D models I make in Fusion 360, but there's gonna end up being a lot here.
+
+***Please support my work via Patreon, Ko-Fi, Venmo, Paypal, Cash App, etc. so I can continue making things.***
+
+***I also sell some things at [vdbx.io](http://vdbx.io)***
 
 ## Overview
 
@@ -57,16 +56,11 @@ The current list of VDBX 3D models is:
 - Handy Jr. - `yet to be released`
 - Handy Sr. - `yet to be released`
 
-
-
 ## The Master List
 
 Each folder in this repo represents a design/project and will have a `.F3D` export from Fusion 360 alongside `STL` / `3MF` files ready to be sliced.
 
-
 I haven gotten better at building parametric when it makes sense or at least building in an order that prevents breaks with changes, but older designs and many new designs are hella messy. Feel free to contact me if you'd like help making modifications to a specific design.
-
-
 
 
 ## Notes about this repo
