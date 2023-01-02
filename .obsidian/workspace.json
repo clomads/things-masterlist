@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "prototype/eInk Oil Change Sticker.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "prototype/eInk Oil Change Sticker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "prototype/eInk Oil Change Sticker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "prototype/eInk Oil Change Sticker.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "31b9313a46940569",
   "lastOpenFiles": [
+    "README.md",
     "prototype/eInk Oil Change Sticker.md",
     "extras/obsidian_template/in-process-badge.md",
     "models/Glasses Clip/README.md",
@@ -146,7 +147,6 @@
     "FD306605-F93F-43FF-905E-71DA8D2EF164_1_105_c.jpeg",
     "extras/media/paypal.svg",
     "extras/README.md",
-    "models/aerostar cubby replacement/README.md",
-    "models/Bottle Hook for 1\" Square Tube/README.md"
+    "models/aerostar cubby replacement/README.md"
   ]
 }

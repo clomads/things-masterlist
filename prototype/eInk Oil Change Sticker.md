@@ -33,6 +33,20 @@ Their 2.1" and 2.9" seem to be a nice replacement for the sticker commonly given
 	- Node Red generates image with data and sends to phone via Telegram
 
 
+## Node Red
+
+### Image base
+
+I originally generated two images with the JIMP plugin and merged them, but the next modification complained about this so starting with a Base64 PNG is probably best, you can create one in your own design app and convert it here: https://codebeautify.org/base64-to-image-converter
+
+Waveshare NFC Screens size reference:
+- 2.9"  - 296x128 - `Used in this project`
+- 2.7" - 264x176 - `Bare PCB`
+- 2.12" - 250x122
+
+### Fonts
+
+Fonts for JIMP are bitmap FNT fonts and you'll need to convert any TTF/OTF fonts for every color and size you want to use: https://ttf2fnt.com/
 
 ## Questions
 
