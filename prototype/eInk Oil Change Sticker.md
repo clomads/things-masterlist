@@ -60,4 +60,4 @@ Needs odometer to be updated with trigger - or before - or after
 
 The app used by the display wants an image to send to the display and programmatically generating an image with text is very new to me. Writing a Home Assistant custom integration is currently out of my grasp so I checked to see if I could do anything with Node Red.
 
-![[FD306605-F93F-43FF-905E-71DA8D2EF164_1_105_c.jpeg]]![[Screenshot 2022-12-19 at 10.21.45 PM.png]]
+![[/extras/media/FD306605-F93F-43FF-905E-71DA8D2EF164_1_105_c.jpeg]]![[/extras/media/Screenshot 2022-12-19 at 10.21.45 PM.png]]
