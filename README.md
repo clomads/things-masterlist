@@ -58,9 +58,13 @@ The current list of VDBX 3D models is:
 
 ## The Master List
 
-Each folder in this repo represents a design/project and will have a `.F3D` export from Fusion 360 alongside `STL` / `3MF` files ready to be sliced.
+Each folder in this repo represents a design/project.
 
-I haven gotten better at building parametric when it makes sense or at least building in an order that prevents breaks with changes, but older designs and many new designs are hella messy. Feel free to contact me if you'd like help making modifications to a specific design.
+If there's is a 3D model , it will have a `.F3D` export from Fusion 360 alongside `STL` / `3MF` files ready to be sliced.
+
+If there is a PCB, I will link to the original project in EasyEDA and I will also try to provide an export for KiCad
+
+I haven gotten better at designing my models parametricly when it makes sense or at least building in an order that prevents breaks with changes, but older designs and many new designs are hella messy. Feel free to contact me if you'd like help making modifications to a specific design.
 
 
 ## Notes about this repo
@@ -69,6 +73,14 @@ This repo is built as an Obsidian vault and contains extra files to support it a
 
 - `obsidian_template` - folder contains structural components to help write `README.md` files
 - `TOOLS.md` - contains links to helpful tools that support the creation of this repo
+
+### Support
+
+Use the links at the top of the page to support me directly via Patreon or Ko-fi. I'm also `@/$clomads` at venmo/cash app/paypal.
+
+I also highly suggest a hotspot membership with the Calyx Institute. For $50/month or less you get an unlimited hotspot and you support open source security research. Using my referral link gives me a free month for each person who uses it to sign up.
+
+https://members.calyxinstitute.org/r/gznkq
 
 
 ## License
