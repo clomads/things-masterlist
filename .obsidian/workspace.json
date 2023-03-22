@@ -25,14 +25,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prototype/USB-C Mod Kit for 2022 Apple TV 4K.md",
+                "file": "models/pour over drip tray/README.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e456ca8b269ff96",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prototype/USB-C Mod Kit for 2022 Apple TV 4K.md",
+                "file": "models/pour over drip tray/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prototype/USB-C Mod Kit for 2022 Apple TV 4K.md",
+                "file": "models/pour over drip tray/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prototype/USB-C Mod Kit for 2022 Apple TV 4K.md"
+                "file": "models/pour over drip tray/README.md"
               }
             }
           }
@@ -159,17 +169,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e784a8595a76f415",
+  "active": "8e456ca8b269ff96",
   "lastOpenFiles": [
-    "README.md",
-    "prototype/eInk Oil Change Sticker.md",
-    "extras/obsidian_template/in-process-badge.md",
-    "models/Glasses Clip/README.md",
-    "extras/media/cashapp.svg",
-    "extras/media/venmo.svg",
-    "FD306605-F93F-43FF-905E-71DA8D2EF164_1_105_c.jpeg",
-    "extras/media/paypal.svg",
     "extras/README.md",
-    "models/aerostar cubby replacement/README.md"
+    "extras/obsidian_template/parametric.md",
+    "extras/obsidian_template/in-process-badge.md",
+    "extras/obsidian_template/frontmatter.md",
+    "catalog/oshwa-us000128.svg",
+    "extras/media/cashapp.svg",
+    "prototype/eInk Oil Change Sticker.md",
+    "prototype/USB-C Mod Kit for 2022 Apple TV 4K.md",
+    "README.md",
+    "models/Glasses Clip/README.md"
   ]
 }
