@@ -2,5 +2,8 @@
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "extras/media",
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "showFrontmatter": true,
+  "spellcheck": true,
+  "useMarkdownLinks": true
 }

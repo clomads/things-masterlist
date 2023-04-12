@@ -35,9 +35,11 @@
             "id": "8e456ca8b269ff96",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.16"
+                "file": "prototype/USB-C Mod Kit for 2022 Apple TV 4K.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "models/pour over drip tray/README.md",
+                "file": "prototype/USB-C Mod Kit for 2022 Apple TV 4K.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "models/pour over drip tray/README.md",
+                "file": "prototype/USB-C Mod Kit for 2022 Apple TV 4K.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "models/pour over drip tray/README.md"
+                "file": "prototype/USB-C Mod Kit for 2022 Apple TV 4K.md"
               }
             }
           }
@@ -171,15 +173,17 @@
   },
   "active": "8e456ca8b269ff96",
   "lastOpenFiles": [
+    "catalog/catalog.afpub",
+    "prototype/eInk Oil Change Sticker.md",
+    "prototype/USB-C Mod Kit for 2022 Apple TV 4K.md",
+    "models/Glasses Clip/README.md",
+    "models/aerostar cubby replacement/README.md",
     "extras/README.md",
     "extras/obsidian_template/parametric.md",
     "extras/obsidian_template/in-process-badge.md",
     "extras/obsidian_template/frontmatter.md",
     "catalog/oshwa-us000128.svg",
     "extras/media/cashapp.svg",
-    "prototype/eInk Oil Change Sticker.md",
-    "prototype/USB-C Mod Kit for 2022 Apple TV 4K.md",
-    "README.md",
-    "models/Glasses Clip/README.md"
+    "README.md"
   ]
 }
