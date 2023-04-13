@@ -1,3 +1,7 @@
+---
+created: 2023-04-12T20:36:15-07:00
+updated: 2023-04-12T20:36:15-07:00
+---
 
 This mod kit is designed to quickly modify a 2022 Apple TV 4K to be powered via the majority of USB Type C cables with at least 8w of power available. This can provide better power options for use when mobile, in an RV, or otherwise have better access to a USB-C port. Take your AppleTV camping with one of those mini projectors or something and skip the inverter. 
 
@@ -8,7 +12,7 @@ The circuit board relies on a simple setup of passive components to obtain 5v an
 The kit includes the following part
 
 1) Custom USB-C Board to replace internal PSU
-2) 3D Printed Bottom insualtor
+2) 3D Printed Bottom insulator
 3) 3D Printed Faceplate
 4) 2x Opening Picks
 5) 2x M2.5x6 
