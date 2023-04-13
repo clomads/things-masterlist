@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prototype/USB-C Mod Kit for 2022 Apple TV 4K.md",
+                "file": "models/the-klip/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prototype/USB-C Mod Kit for 2022 Apple TV 4K.md",
+                "file": "models/the-klip/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prototype/USB-C Mod Kit for 2022 Apple TV 4K.md",
+                "file": "models/the-klip/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prototype/USB-C Mod Kit for 2022 Apple TV 4K.md"
+                "file": "models/the-klip/README.md"
               }
             }
           }
@@ -173,19 +173,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e456ca8b269ff96",
+  "active": "cbf05a3812159950",
   "lastOpenFiles": [
+    "models/Bottle Hook for 1\" Square Tube/README.md",
+    "README.md",
+    "prototype/USB-C Mod Kit for 2022 Apple TV 4K.md",
     "catalog/catalog.afpub",
     "prototype/eInk Oil Change Sticker.md",
-    "prototype/USB-C Mod Kit for 2022 Apple TV 4K.md",
-    "models/Glasses Clip/README.md",
+    "models/the-klip/README.md",
     "models/aerostar cubby replacement/README.md",
     "extras/README.md",
     "extras/obsidian_template/parametric.md",
     "extras/obsidian_template/in-process-badge.md",
     "extras/obsidian_template/frontmatter.md",
     "catalog/oshwa-us000128.svg",
-    "extras/media/cashapp.svg",
-    "README.md"
+    "extras/media/cashapp.svg"
   ]
 }
