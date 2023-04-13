@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e784a8595a76f415",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "models/pour over drip tray/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e456ca8b269ff96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "models/the-klip/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "models/the-klip/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "models/the-klip/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "models/the-klip/README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -175,10 +146,30 @@
   },
   "active": "cbf05a3812159950",
   "lastOpenFiles": [
+    "3dmodels/motor shade/stl/motor-mount.stl",
+    "3dmodels/motor shade/stl/motor-cover.stl",
+    "3dmodels/motor shade/image/5-motor-insert-grey.jpg",
+    "3dmodels/motor shade/stl/Idler Support - Right.stl",
+    "3dmodels/motor shade/stl/Idler Support - Left.stl",
+    "3dmodels/motor shade/stl/Copper Pipe Insert Motor.stl",
+    "3dmodels/motor shade/stl/Copper Pipe Insert Idler 8mm.stl",
+    "3dmodels/motor shade/image/6-installed-shade.jpg",
+    "3dmodels/motor shade/image/4-Idler-insert-grey.jpg",
+    "3dmodels/motor shade/image/1-main-set.jpg",
+    "3dmodels/motor shade/image/2-motor-assembly.jpg",
+    "3dmodels/aerostar cubby replacement/aerostar-dash-cubby.3mf",
+    "3dmodels/wt32-eth01 din rail/Eth01-din-right.stl",
+    "3dmodels/wt32-eth01 din rail/Eth01-din-left.stl",
+    "3dmodels/the-klip/theklip.stl",
+    "3dmodels/the-klip/theklip.3mf",
+    "3dmodels/the-klip/README.md",
+    "3dmodels/pour over drip tray/README.md",
+    "3dmodels/pour over drip tray/IMG_2664.jpeg",
+    "3dmodels/aerostar cubby replacement/README.md",
+    "3dmodels/Bottle Hook for 1\" Square Tube/README.md",
     "models/Bottle Hook for 1\" Square Tube/README.md",
     "README.md",
     "prototype/USB-C Mod Kit for 2022 Apple TV 4K.md",
-    "catalog/catalog.afpub",
     "prototype/eInk Oil Change Sticker.md",
     "models/the-klip/README.md",
     "models/aerostar cubby replacement/README.md",
