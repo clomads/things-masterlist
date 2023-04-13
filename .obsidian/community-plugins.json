@@ -1,6 +1,15 @@
 [
   "url-into-selection",
   "obsidian-state-switcher",
-  "obsidian-toggle-meta-yaml-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "card-board",
+  "better-inline-fields",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-frontmatter-tag-suggest",
+  "update-time-on-edit",
+  "cmenu-plugin",
+  "drawio-obsidian",
+  "code-block-copy",
+  "obsidian-completr",
+  "obsidian-dynamic-toc"
 ]
