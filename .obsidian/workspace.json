@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "61a2a6b1556f90d4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
+          },
+          {
+            "id": "b1fd5d6ffe1d48f6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,6 +85,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "c3e1754f936f8d1c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -144,8 +177,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cbf05a3812159950",
+  "active": "b1fd5d6ffe1d48f6",
   "lastOpenFiles": [
+    "catalog/catalog.afpub",
     "3dmodels/motor shade/stl/motor-mount.stl",
     "3dmodels/motor shade/stl/motor-cover.stl",
     "3dmodels/motor shade/image/5-motor-insert-grey.jpg",
@@ -161,7 +195,6 @@
     "3dmodels/wt32-eth01 din rail/Eth01-din-right.stl",
     "3dmodels/wt32-eth01 din rail/Eth01-din-left.stl",
     "3dmodels/the-klip/theklip.stl",
-    "3dmodels/the-klip/theklip.3mf",
     "3dmodels/the-klip/README.md",
     "3dmodels/pour over drip tray/README.md",
     "3dmodels/pour over drip tray/IMG_2664.jpeg",
